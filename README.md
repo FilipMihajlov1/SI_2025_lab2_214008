@@ -13,3 +13,5 @@ V(G) = 24 - 19 + 2 = 7
 Цикломатската Комплексност на графот е 7.
 
 
+## Every Statement Case
+![Every Statement Cases](https://github.com/user-attachments/assets/34c04cc9-ba2b-48fa-99ec-6181a38bf1c1)
