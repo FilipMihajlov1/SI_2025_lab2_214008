@@ -36,9 +36,9 @@ V(G) = 24 - 19 + 2 = 7
  - Кога вакви параметри се испратени ќе бидат исполнети сите услови освен условот item.getDiscount() > 0 со што ќе биде променета цената на продуктот.
 
 
+
 ## Multiple Condition Statement
 
 
-
-
+![Screenshot 2025-05-18 223117](https://github.com/user-attachments/assets/aad762f5-a79d-46b8-a758-078c6f25babc)
 
