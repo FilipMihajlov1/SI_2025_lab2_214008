@@ -1,4 +1,4 @@
-#  -Filip Mihajlov | 214008
+#  Filip Mihajlov | 214008
 
 ## Control Flow Graph
 
